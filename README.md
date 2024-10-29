@@ -1,0 +1,2 @@
+# Image-Feature-Comparison
+ This repository provides methods for extracting and comparing texture features from images, including Mean, Variance, Local Binary Patterns (LBP), Local Ternary Patterns (LTP), Local Phase Quantization (LPQ), and Histogram of Oriented Gradients (HOG). It calculates Euclidean distances between features to assess image similarity, using color-coded output for intuitive distance analysis
